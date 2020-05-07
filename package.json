@@ -4,13 +4,11 @@
   "description": "",
   "author": "electricessence",
   "license": "MIT",
-  "types": "src/index.d.ts",
+  "types": "index.d.ts",
   "keywords": [],
   "scripts": {
     "bump": "npm run precommit && npm version patch",
-    "lint": "eslint dist/**/*.ts",
-    "precommit": "npm prune && npm install && npm run lint",
-    "preversion": "npm run lint",
+    "precommit": "npm prune && npm install",
     "postversion": "git push && git push --tags"
   },
   "repository": {
