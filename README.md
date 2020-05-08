@@ -1,4 +1,4 @@
-# ![alt text](https://avatars1.githubusercontent.com/u/64487547?s=30&amp;v=5 "tsdotnet") tsdotnet / common-interfaces
+# ![alt text](https://avatars1.githubusercontent.com/u/64487547?s=30 "tsdotnet") tsdotnet / common-interfaces
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/tsdotnet/common-interfaces/blob/master/LICENSE)
 ![npm-publish](https://github.com/tsdotnet/common-interfaces/workflows/npm-publish/badge.svg)
