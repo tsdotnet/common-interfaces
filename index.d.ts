@@ -5,6 +5,8 @@
 
 export type Primitive = string | number | boolean;
 
+export type NullablePrimitive = Primitive | null;
+
 export interface Selector<TSource, TResult>
 {
 	(source: TSource): TResult;
