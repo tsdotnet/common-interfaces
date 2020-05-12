@@ -8,7 +8,7 @@
   "keywords": [],
   "scripts": {
     "bump": "npm run precommit && npm version patch",
-    "precommit": "npm prune && npm install",
+    "precommit": "npm i",
     "postversion": "git push && git push --tags"
   },
   "repository": {
