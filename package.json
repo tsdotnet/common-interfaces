@@ -29,6 +29,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "rimraf": "^3.0.2",
-    "typescript": "^3.9.6"
+    "typescript": "^3.9.7"
   }
 }
