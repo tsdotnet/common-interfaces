@@ -1,26 +1,15 @@
 {
-  "compileOnSave": true,
   "compilerOptions": {
-    "declaration": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "target": "es2022",
+    "target": "ES2022",
+    "lib": ["ES2022"],
     "module": "commonjs",
-    "strict": true,
-    "sourceMap": true,
-    "removeComments": false,
-    "importHelpers": true,
     "moduleResolution": "node",
+    "strict": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "outDir": "dist"
+    "esModuleInterop": true
   },
   "include": [
-    "src/**/*"
-  ],
-  "exclude": [
-    "tests/**/*",
-    "dist/**/*",
-    "node_modules"
+    "index.d.ts"
   ]
 }
