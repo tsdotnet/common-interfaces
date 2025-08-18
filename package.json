@@ -4,7 +4,7 @@
   "description": "",
   "author": "electricessence",
   "license": "MIT",
-  "types": "index.d.ts",
+  "type": "module",
   "exports": {
     ".": {
       "types": "./index.d.ts"
