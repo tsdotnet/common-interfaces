@@ -3,8 +3,16 @@ node_modules
 bin
 obj
 *.user
+/tests
 /spec
 /src
 /docs
+/archive
+/examples
 typedoc.json
 tsconfig.*
+pnpm-lock.yaml
+package-lock.json
+eslint.config.*
+vitest.config.*
+rollup.config.*
